@@ -1,4 +1,4 @@
-# Vylepšený Task Manager
+# Task Manager 2
 
 Tento projekt je **vylepšený správce úkolů** napsaný v Pythonu, který ukládá úkoly do MySQL databáze a podporuje operace CRUD (Create, Read, Update, Delete).  
 
